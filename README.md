@@ -25,7 +25,7 @@
 
 🧠 Certified in **Deep Learning, Machine Learning, Generative AI, Agentic AI** (LangGraph, CrewAI, AutoGen, BeeAI) and **RAG pipelines** via DeepLearning.AI & IBM
 
-🚀 **3 live ML apps** deployed on Hugging Face Spaces — from a movie recommender to a full MLOps diamond price prediction pipeline with FastAPI + MLflow
+🚀 **4 live ML apps** deployed on Hugging Face Spaces — from a fraud detection streaming pipeline to a full MLOps diamond price prediction system with FastAPI + MLflow
 
 ✨ Currently exploring **Agentic AI workflows** and building intelligent systems with LangGraph, RAG, and Vector Databases
 
@@ -43,6 +43,7 @@
 
 | # | Project | Description | Stack | Links |
 |---|---------|-------------|-------|-------|
+| 🛡️ | **Fraud Detection MLOps System** | Real-time fraud detection with event-driven streaming, automated ML pipeline, experiment tracking, and dual API/UI deployment — handling 284K+ transactions with F1-optimized threshold tuning | FastAPI · Kafka · MLflow · Docker · Gradio · Scikit-learn | [![Demo](https://img.shields.io/badge/Demo-6C63FF?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/AbdullahKS-Devhub/fraud-detection-system) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullahks-devhub/fraud-detection-mlops-system) |
 | 💎 | **Diamond Price Appraiser AI** | End-to-end MLOps pipeline — automated ingestion, transformation, experiment tracking & dual API/UI deployment | FastAPI · MLflow · XGBoost · Gradio | [![Demo](https://img.shields.io/badge/Demo-6C63FF?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/AbdullahKS-Devhub/diamond-price-prediction) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullahks-devhub/diamond-price-prediction-with-mlops-pipeline) |
 | 🏥 | **HealthGuard AI** | 3 independent disease prediction models (Diabetes, Heart, Parkinson's) in a unified clinical interface | Scikit-learn · Streamlit · SVM | [![Demo](https://img.shields.io/badge/Demo-6C63FF?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/AbdullahKS-Devhub/multiple-disease-prediction) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullahks-devhub/Multiple-Disease-Prediction-System) |
 | 🎬 | **CineMatch** | Content-based movie recommender using cosine similarity across 5,000+ films with TMDB API integration | Scikit-learn · Streamlit · TMDB API | [![Demo](https://img.shields.io/badge/Demo-6C63FF?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/AbdullahKS-Devhub/movie-recommender) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullahks-devhub/movie-recommendation-system) |
@@ -93,6 +94,8 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
