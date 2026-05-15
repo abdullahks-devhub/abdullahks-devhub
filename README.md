@@ -120,9 +120,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahks-devhub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahks-devhub&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abdullahks-devhub&theme=tokyonight&hide_border=true)
