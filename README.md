@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=200&section=header&text=Abdullah%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20MLOps%20%7C%20Generative%20AI&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+production-grade+ML+systems+%F0%9F%9A%80;MLOps+%7C+FastAPI+%7C+MLflow+%7C+PyTorch;LangGraph+%7C+CrewAI+%7C+RAG+Applications;Deep+Learning+%7C+NLP+%7C+Generative+AI;Final-year+CS+Student+%7C+CGPA+3.57%2F4.0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+production-grade+ML+systems+%F0%9F%9A%80;MLOps+%7C+FastAPI+%7C+MLflow+%7C+PyTorch;LangChain+%7C+LangGraph+%7C+RAG+Applications;Deep+Learning+%7C+NLP+%7C+Generative+AI;Final-year+CS+Student+%7C+CGPA+3.57%2F4.0)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,13 +25,13 @@
 
 🧠 Certified in **Deep Learning, Machine Learning, Generative AI, Agentic AI** (LangGraph, CrewAI, AutoGen, BeeAI) and **RAG pipelines** via DeepLearning.AI & IBM
 
-🚀 **4 live ML apps** deployed on Hugging Face Spaces — from a fraud detection streaming pipeline to a full MLOps diamond price prediction system with FastAPI + MLflow
+🚀 **5 live ML apps** deployed on Hugging Face Spaces — from a RAG study assistant and fraud detection streaming pipeline to full MLOps systems with FastAPI + MLflow
 
-✨ Currently exploring **Agentic AI workflows** and building intelligent systems with LangGraph, RAG, and Vector Databases
+✨ Currently building **RAG pipelines and Agentic AI workflows** with LangChain, LangGraph, ChromaDB, and Vector Databases
 
 📍 Based in **Faisalabad, Pakistan** — open to remote opportunities worldwide
 
-💬 Ask me about **MLOps, LLMs, Scikit-learn, FastAPI, or deploying ML models to production**
+💬 Ask me about **MLOps, LLMs, RAG, FastAPI, or deploying ML models to production**
 
 🌐 Full portfolio at **[abdullahks.me](https://abdullahks.me)**
 
@@ -43,6 +43,7 @@
 
 | # | Project | Description | Stack | Links |
 |---|---------|-------------|-------|-------|
+| 🎓 | **UniMind — RAG Study Assistant** | Production-grade RAG chatbot that indexes university PDF notes and answers questions with source citations — features smart OCR for scanned PDFs, ChromaDB MMR retrieval, resilient LLM routing with fallback, LaTeX math rendering, and additive ingestion | LangChain · ChromaDB · HuggingFace · sentence-transformers · pdfplumber · Tesseract · Streamlit | [![Demo](https://img.shields.io/badge/Demo-6C63FF?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/AbdullahKS-Devhub/unimind-rag-chatbot) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullahks-devhub/rag-chatbot-university) |
 | 🛡️ | **Fraud Detection MLOps System** | Real-time fraud detection with event-driven streaming, automated ML pipeline, experiment tracking, and dual API/UI deployment — handling 284K+ transactions with F1-optimized threshold tuning | FastAPI · Kafka · MLflow · Docker · Gradio · Scikit-learn | [![Demo](https://img.shields.io/badge/Demo-6C63FF?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/AbdullahKS-Devhub/fraud-detection-system) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullahks-devhub/fraud-detection-mlops-system) |
 | 💎 | **Diamond Price Appraiser AI** | End-to-end MLOps pipeline — automated ingestion, transformation, experiment tracking & dual API/UI deployment | FastAPI · MLflow · XGBoost · Gradio | [![Demo](https://img.shields.io/badge/Demo-6C63FF?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/AbdullahKS-Devhub/diamond-price-prediction) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullahks-devhub/diamond-price-prediction-with-mlops-pipeline) |
 | 🏥 | **HealthGuard AI** | 3 independent disease prediction models (Diabetes, Heart, Parkinson's) in a unified clinical interface | Scikit-learn · Streamlit · SVM | [![Demo](https://img.shields.io/badge/Demo-6C63FF?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/AbdullahKS-Devhub/multiple-disease-prediction) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullahks-devhub/Multiple-Disease-Prediction-System) |
@@ -86,6 +87,11 @@
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![BeeAI](https://img.shields.io/badge/BeeAI-FFC107?style=for-the-badge&logo=python&logoColor=black)
+
+**🗄️ Vector Databases & RAG**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=python&logoColor=white)
+![sentence--transformers](https://img.shields.io/badge/sentence--transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **🚀 MLOps & Web Apps**
 
