@@ -205,7 +205,7 @@
 
 <br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abdullahks-devhub&hide_border=true&background=00000000&ring=9F4BE0&fire=764BA2&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=ffffff&sideNums=ffffff&dates=8B8B9E)
+![GitHub Streak](https://streak-stats.demolab.com?user=abdullahks-devhub&hide_border=true&background=0D1117&ring=9F4BE0&fire=764BA2&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=ffffff&sideNums=ffffff&dates=8B8B9E)
 
 <br/><br/>
 
