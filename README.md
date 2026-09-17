@@ -21,15 +21,17 @@
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-💼 Currently an **AI Engineer & Platform Agent Development Engineer** at **CR Equity AI, Inc.** (Remote) — building agentic CRM systems and conversational voice AI on their proprietary AIVAA™ platform
+💼 **AI/ML Engineer with 1+ years of experience** — currently an **AI Engineer & Platform Agent Development Engineer** at **CR Equity AI, Inc.** (Remote), building agentic CRM systems and conversational voice AI, since June 2026
 
 🎓 **BS Computer Science** from The University of Faisalabad — CGPA **3.59/4.0**, completed June 2026
 
 🤖 Built and deployed **10 of 25 sub-agents** for a production CRM AI Assistant platform, and currently building **two Twilio + ElevenLabs conversational voice agents** (technical support + broker-facing sales)
 
+🛠️ Previously built production agentic AI systems at **Xelent Solutions** — multi-agent document editors, supervisor-routed architectures, and an automated idea-to-GitHub code-generation pipeline
+
 🧠 Certified in **Machine Learning & Deep Learning** (Stanford / DeepLearning.AI) and **Generative AI, RAG & Agentic AI** (IBM) — spanning LangGraph, CrewAI, AutoGen, and BeeAI
 
-🚀 **5+ deployed ML/AI applications** handling real user traffic — from RAG study assistants and multi-cloud security scanners to real-time fraud detection pipelines
+🚀 Multiple deployed ML/AI applications on HuggingFace Spaces — from a RAG study assistant to a multi-cloud security scanner and a real-time fraud detection pipeline
 
 ✨ Day to day I work across **RAG architectures, multi-agent orchestration, vector search (ChromaDB, Pinecone, FAISS), and production MLOps** (FastAPI, Docker, MLflow, Kafka)
 
@@ -51,16 +53,22 @@
 
 ## 💼 Professional Experience
 
-**AI Engineer & Platform Agent Development Engineer** — *CR Equity AI, Inc.* (Remote) | *July 2026 – Present*
-- Built RAG pipelines and semantic search over real estate/loan data on the AIVAA™ platform using ChromaDB, Pinecone, and FAISS for valuation comparables and borrower/property profiling
+**AI Engineer & Platform Agent Development Engineer** — *CR Equity AI, Inc.* (Remote) | *June 2026 – Present*
 - Automated ingestion and extraction of appraisals, rent rolls, T-12 statements, and DSCR packages with LLM-powered document workflows across OpenAI, Claude, and open-source models
-- Built and deployed 10 of 25 sub-agents (Dynamic Pricing, Competitor Monitoring, Compliance & Monitoring, Feedback Loop, Follow-Up Sequences, Performance Analytics, Task Automation) as FastAPI microservices on AWS, backed by PostgreSQL (NeonDB), Redis, and Kafka, instrumented with Grafana and OpenTelemetry
-- Architected multi-agent orchestration (LangGraph, LangChain, CrewAI, AutoGen) for loan pre-qualification, underwriting routing, and exception flagging
+- Built and deployed 10 of 25 sub-agents (Dynamic Pricing, Competitor Monitoring, Compliance & Monitoring, Feedback Loop, Follow-Up Sequences, Performance Analytics, Task Automation) as FastAPI microservices on AWS, backed by NeonDB, Redis, and Kafka, instrumented with Grafana
+- Architected multi-agent orchestration to automate loan pre-qualification, underwriting routing, and exception flagging
 - Rebuilt the Zoho SalesIQ chatbot's conversation flow and RAG pipeline to fix context retention across turns; that same knowledge base now powers two in-development voice agents
-- Currently building two conversational voice agents (Twilio Programmable Voice/Media Streams, ElevenLabs Conversational AI) with FastAPI orchestration and Redis-backed session state
-- Implemented MLOps practices (MLflow, Docker, GitHub Actions CI/CD) and real-time Kafka pipelines for loan event monitoring and fraud detection signals
+- Currently building two conversational voice agents (Twilio Programmable Voice/Media Streams, ElevenLabs Conversational AI) with FastAPI orchestration
+- Implemented MLOps practices (MLflow, Docker, GitHub Actions CI/CD) for reproducible training and deployment, and built real-time Kafka pipelines for loan event monitoring
 
-**iOS Developer Intern** — *Tricode*, Faisalabad, Pakistan (On-site) | *June 2025 – August 2025*
+**Associate AI Engineer** — *Xelent Solutions*, Faisalabad, Pakistan (On-site) | *September 2025 – June 2026*
+- Collaborated with the team on delivering AI and software solutions, driving technical architecture decisions, integrating LLM APIs across OpenAI, Anthropic, and Groq, and translating client requirements into scalable, production-ready systems
+- Designed and delivered production agentic AI systems using LangGraph and FastAPI — multi-agent architectures with supervisor routing, parallel specialist agents, and planner-based orchestration
+- Developed AI products end-to-end, including a multi-agent document editor (LangGraph, FastAPI, WebSocket streaming) with specialized writer, editor, and diagram agents, and an automated code-generation pipeline that turns a one-line idea into a complete, GitHub-pushed Python project
+- Prototyped early agentic workflows in LangChain/LangGraph that became the foundation for the team's later multi-agent architecture
+- Collaborated with senior engineers to integrate LLM APIs into internal tooling and early client proof-of-concepts
+
+**iOS Developer Intern** — *Tricode LLC*, Faisalabad, Pakistan (On-site) | *June 2025 – August 2025*
 - Developed and maintained iOS application features and UI components alongside the development team
 - Implemented, tested, and debugged application functionality; gained hands-on experience with mobile dev workflows and version control
 
